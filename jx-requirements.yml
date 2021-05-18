@@ -22,7 +22,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: "jenkinsx.dnac.ciscolabs.com"
+    domain: jenkinsx.dnac.ciscolabs.com
     externalDNS: false
     kind: ingress
     namespaceSubDomain: -jx.

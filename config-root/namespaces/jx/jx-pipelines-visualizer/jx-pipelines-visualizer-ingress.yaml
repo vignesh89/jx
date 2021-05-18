@@ -18,7 +18,7 @@ metadata:
   namespace: jx
 spec:
   rules:
-    - host: dashboard-jx.jx.dnac.ciscolabs.com
+    - host: dashboard-jx.jenkinsx.dnac.ciscolabs.com
       http:
         paths:
           - backend:

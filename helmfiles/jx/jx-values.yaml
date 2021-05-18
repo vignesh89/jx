@@ -38,7 +38,7 @@ jxRequirements:
   - key: staging
   - key: production
   ingress:
-    domain: jx.dnac.ciscolabs.com
+    domain: jenkinsx.dnac.ciscolabs.com
     externalDNS: false
     kind: ingress
     namespaceSubDomain: -jx.

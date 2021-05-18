@@ -17,4 +17,4 @@ spec:
               serviceName: hook
               servicePort: 80
             path: "/hook"
-      host: hook-jx.jx.dnac.ciscolabs.com
+      host: hook-jx.jenkinsx.dnac.ciscolabs.com

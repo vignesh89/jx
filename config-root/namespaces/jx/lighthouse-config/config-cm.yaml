@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - vignesh89/jx
-      target_url: http://dashboard-jx.jx.dnac.ciscolabs.com
+      target_url: http://dashboard-jx.jenkinsx.dnac.ciscolabs.com
 kind: ConfigMap
 metadata:
   creationTimestamp: null
