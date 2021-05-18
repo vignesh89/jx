@@ -38,9 +38,6 @@ spec:
         env:
         - name: XDG_CONFIG_HOME
           value: /workspace/xdg_config
-         env:
-        - name: XDG_CONFIG_HOME
-          value: /workspace/xdg_config
         - name: HTTP_PROXY
           value: http://proxy.esl.cisco.com:8080/
         - name: HTTPS_PROXY
