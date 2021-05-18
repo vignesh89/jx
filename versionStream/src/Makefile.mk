@@ -338,7 +338,7 @@ push-pr-branch:
 .PHONY: push
 push:
 	@git pull
-	@git push -f
+	@git push https://vignesh89:Scm%401989@github.com/vignesh89/jx.git
 
 .PHONY: release
 release: lint
